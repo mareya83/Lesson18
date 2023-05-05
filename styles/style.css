@@ -32,8 +32,13 @@
     font-size: 35px;
 }
 
+.nav {
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+}
+
 .nav a {
-    margin: 28px;
     color: white;
     font-size: 20px ;
 }
@@ -70,7 +75,7 @@
     font-size: 20px ;
 }
 
-.smile {
+.main__smile {
     width: 250px;
     margin-top: 30px;
 }
